@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1008087475806648574
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5554008549466911170}
+  m_Layer: 0
+  m_Name: KettleHat
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5554008549466911170
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1008087475806648574}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7367282699156767478}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &7097338797918382105
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5554008549466911170}
+    m_Modifications:
+    - target: {fileID: 307098667303250671, guid: a5e1d0f3d5ddbfb4ab381ea82030a6b2, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 307098667303250671, guid: a5e1d0f3d5ddbfb4ab381ea82030a6b2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 307098667303250671, guid: a5e1d0f3d5ddbfb4ab381ea82030a6b2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.034
+      objectReference: {fileID: 0}
+    - target: {fileID: 307098667303250671, guid: a5e1d0f3d5ddbfb4ab381ea82030a6b2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.027
+      objectReference: {fileID: 0}
+    - target: {fileID: 307098667303250671, guid: a5e1d0f3d5ddbfb4ab381ea82030a6b2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99616486
+      objectReference: {fileID: 0}
+    - target: {fileID: 307098667303250671, guid: a5e1d0f3d5ddbfb4ab381ea82030a6b2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.08749602
+      objectReference: {fileID: 0}
+    - target: {fileID: 307098667303250671, guid: a5e1d0f3d5ddbfb4ab381ea82030a6b2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 307098667303250671, guid: a5e1d0f3d5ddbfb4ab381ea82030a6b2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 307098667303250671, guid: a5e1d0f3d5ddbfb4ab381ea82030a6b2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 10.039
+      objectReference: {fileID: 0}
+    - target: {fileID: 307098667303250671, guid: a5e1d0f3d5ddbfb4ab381ea82030a6b2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 307098667303250671, guid: a5e1d0f3d5ddbfb4ab381ea82030a6b2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083353414360592469, guid: a5e1d0f3d5ddbfb4ab381ea82030a6b2, type: 3}
+      propertyPath: m_Name
+      value: m_KettleHat01
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a5e1d0f3d5ddbfb4ab381ea82030a6b2, type: 3}
+--- !u!4 &7367282699156767478 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 307098667303250671, guid: a5e1d0f3d5ddbfb4ab381ea82030a6b2, type: 3}
+  m_PrefabInstance: {fileID: 7097338797918382105}
+  m_PrefabAsset: {fileID: 0}

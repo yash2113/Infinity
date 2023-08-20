@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6522c28e2f63b9840a64205639300d7f, type: 3}
+  m_Name: 02_BigHorn Hat
+  m_EditorClassIdentifier: 
+  ItemName: Big Horn Hat
+  ItemPrice: 30
+  Thumbnail: {fileID: 21300000, guid: 4d83ad9ff812f744793e6eb8f83c2f9b, type: 3}
+  Model: {fileID: 7640518895491735098, guid: 164005cafc3a5854aa5256492401675b, type: 3}

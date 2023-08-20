@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6522c28e2f63b9840a64205639300d7f, type: 3}
+  m_Name: 26_SpikeyHat
+  m_EditorClassIdentifier: 
+  ItemName: Spiky Hat
+  ItemPrice: 250
+  Thumbnail: {fileID: 21300000, guid: 7f8039da6360b6e42bd8e8549552e148, type: 3}
+  Model: {fileID: 340126252206985400, guid: 49f503346e4d3ed419d50c29618affbd, type: 3}
